@@ -2,7 +2,7 @@ import twint
 import sys
 
 if len(sys.argv) == 1:
-    print('usage: checkyoself.py USERNAME')
+    print('usage: checkyoself.py lesliannehgx')
     sys.exit(1)
 
 username = str(sys.argv[1].replace('@', ''))
